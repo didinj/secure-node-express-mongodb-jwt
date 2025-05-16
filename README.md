@@ -2,7 +2,8 @@
 
 A step-by-step tutorial project for building a secure RESTful API using Node.js, Express.js, MongoDB, and JSON Web Tokens (JWT). Includes user authentication, role-based authorization, input validation, and protected CRUD routes.
 
-[Full articles]()
+📘 **Read the full tutorial on Djamware →**  
+[Build a Secure REST API with Node.js, Express, MongoDB, and JWT](https://www.djamware.com/post/6826fc85f9614f0a093d9cba/build-a-secure-rest-api-with-nodejs-express-mongodb-and-jwt)
 
 ## 🔐 Features
 
